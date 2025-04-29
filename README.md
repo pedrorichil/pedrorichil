@@ -1,8 +1,10 @@
 <!-- Header com efeito de onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
 
-<!-- Foto de perfil -->
-<img width="100%" src="https://i.imgur.com/EgCjAAQ.jpeg" alt="Pedro Richil - Foto de perfil"/>
+<!-- Foto de perfil centralizada e redimensionada -->
+<p align="center">
+  <img src="https://i.imgur.com/EgCjAAQ.jpeg" alt="Pedro Richil - Foto de perfil" width="250px" style="border-radius:50%;" />
+</p>
 
 <div align="center">
 
@@ -38,7 +40,4 @@
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorichil/)  
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-chi-lemon-51.vercel.app)
-
-<!-- Footer com efeito de onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+[![
