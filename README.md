@@ -20,16 +20,17 @@
 
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,kotlin,figma,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,django,java,kotlin,mysql,postgresql,figma,linux,vscode,git,github&theme=dark" />
 
 ## About me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Pedro and I am a Software Developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get my first job and, in the future, become a Tech Lead.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Python, Django, Kotlin and Java.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" height="25" /> Hello! My name is Pedro and I’m a Software Developer currently working with Python integration solutions.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> My main focus is on FastAPI, RAG systems, vector databases like FAISS, and deploying local LLMs using Ollama.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain.png" width="25" height="25" /> I’m passionate about AI, Big Data, cybersecurity, and backend development.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" width="25" height="25" /> I’m finishing my Software Engineering degree at Unicesumar and also studying Nutrition.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" height="25" /> I've completed several trainings in AI, Blockchain, UX, Cybersecurity, and Emerging Technologies.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="25" height="25" /> Let’s talk about tech, AI, or data? Feel free to reach out!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
 
 <br />
 
