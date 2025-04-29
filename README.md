@@ -1,11 +1,11 @@
 <!-- Header com efeito de onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
 
-<!-- Foto de perfil centralizada, redonda e com borda -->
+<!-- Foto de perfil centralizada, redonda e com borda 
 <p align="center">
   <img src="https://i.imgur.com/EgCjAAQ.jpeg" alt="Pedro Richil - Foto de perfil" width="150px" style="border-radius: 50%; border: 4px solid white;" />
 </p>
-
+-->
 <div align="center">
 
   <!-- GitHub Stats -->
