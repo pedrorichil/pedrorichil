@@ -3,7 +3,7 @@
 
 <!-- Foto de perfil centralizada e redimensionada -->
 <p align="center">
-  <img src="https://i.imgur.com/EgCjAAQ.jpeg" alt="Pedro Richil - Foto de perfil" width="250px" style="border-radius:50%;" />
+  <img src="https://i.imgur.com/EgCjAAQ.jpeg" alt="Pedro Richil - Foto de perfil" width="150px" style="border-radius:50%;" />
 </p>
 
 <div align="center">
