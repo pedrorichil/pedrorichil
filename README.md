@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
 
 <!-- Foto de perfil (suba sua imagem para um host público e substitua o link abaixo) -->
-<img width="100%" src="[https://i.imgur.com/SEU_LINK_PUBLICO.jpg](https://github.com/account)" alt="Pedro Richil - Foto de perfil"/>
+<img width="100%" src="[[https://i.imgur.com/EgCjAAQ.jpeg](https://github.com/account)](https://github.com/account)" alt="Pedro Richil - Foto de perfil"/>
 
 <div align="center">
 
