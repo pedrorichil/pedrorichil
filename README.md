@@ -1,44 +1,44 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
+<!-- Header com efeito de onda -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
 
-<img width=100% src="photo_5077915301663845150_y.jpg"/>
+<!-- Foto de perfil (suba sua imagem para um host público e substitua o link abaixo) -->
+<img width="100%" src="https://i.imgur.com/SEU_LINK_PUBLICO.jpg" alt="Pedro Richil - Foto de perfil"/>
 
-<div align='center'>
+<div align="center">
 
-<div align="center">  
+  <!-- GitHub Stats -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" alt="Pedro Richil GitHub Stats"/> 
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrorichil&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorichil&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorichil&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" alt="Linguagens mais usadas"/>
+
 </div>
 
-</div>
+<!-- Linha divisória -->
+<img src="lineBar.png" width="100%" height="8px" alt="Linha divisória colorida"/>
 
-<img src="lineBar.png" width="100%" height="8px"/>
+## 💻 My Stack
 
-<div><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,django,java,kotlin,mysql,postgresql,figma,linux,vscode,git,github&theme=dark" alt="Minha stack"/>
 
-## My Stack
+## 👨‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,django,java,kotlin,mysql,postgresql,figma,linux,vscode,git,github&theme=dark" />
-
-## About me
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" height="25" /> Hello! My name is Pedro and I’m a Software Developer currently working with Python integration solutions.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> My main focus is on FastAPI, RAG systems, vector databases like FAISS, and deploying local LLMs using Ollama.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> I’m passionate about AI, Big Data, cybersecurity, and backend development.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" width="25" height="25" /> I’m finishing my Software Engineering degree at Unicesumar and also studying Nutrition.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" height="25" /> I've completed several trainings in AI, Blockchain, UX, Cybersecurity, and Emerging Technologies.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="25" height="25" /> Let’s talk about tech, AI, or data? Feel free to reach out!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" width="25" height="25" /> Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
+- 🖐️ Hello! My name is **Pedro** and I’m a Software Developer currently working with Python integration solutions.  
+- 👨‍💻 My main focus is on **FastAPI**, **RAG systems**, vector databases like **FAISS**, and deploying local LLMs using **Ollama**.  
+- 🧠 I’m passionate about **AI**, **Big Data**, **cybersecurity**, and **backend development**.  
+- 🎓 I’m finishing my **Software Engineering** degree at **Unicesumar** and also studying **Nutrition**.  
+- 📚 I’ve completed several trainings in **AI**, **Blockchain**, **UX**, **Cybersecurity**, and **Emerging Technologies**.  
+- 💬 Let’s talk about tech, AI, or data? Feel free to reach out!  
+- 🧡 Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
 
 <br />
 
-<img src="lineBar.png" width="100%" height="8px"/>
+<!-- Linha divisória -->
+<img src="lineBar.png" width="100%" height="8px" alt="Linha divisória colorida"/>
 
-## Contact me
+## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorichil/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorichil/)  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-chi-lemon-51.vercel.app)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<!-- Footer com efeito de onda -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
