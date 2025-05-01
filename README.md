@@ -30,7 +30,7 @@
 - 🎓 I’m finishing my **Software Engineering** degree at **Unicesumar** and also studying **Nutrition**.  
 - 📚 I’ve completed several trainings in **AI**, **Blockchain**, **UX**, **Cybersecurity**, and **Emerging Technologies**.  
 - 💬 Let’s talk about tech, AI, or data? Feel free to reach out!  
-- 🧡 Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
+- 🧡 Check out my [portfolio](#)!
 
 <br />
 
